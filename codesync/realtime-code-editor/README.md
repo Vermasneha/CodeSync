@@ -1,3 +1,3 @@
 ### Demo
 
-https://code-sync.coders.com/
+https://code-sync-live.vercel.app

@@ -1,7 +1,3 @@
-Here’s a solid, professional README for your Code Sync project, structured to impress recruiters, interviewers, or contributors:
-
-
----
 
 Code Sync – Real-Time Collaborative Code Editor
 
